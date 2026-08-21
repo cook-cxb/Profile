@@ -72,4 +72,42 @@ Deployment and Productionizing:
       - Tailwindcss
       - Bootstrap 
 
+# Data Structures and Algorithms: 
+Data Structure    
+  - Arrays
+  - Linked Lists
+  - Stacks
+  - Queues
+  - Hash Tables
+  - Trees (Binary, AVL, Red-Black, etc.)
+  - Graphs
+  - Heaps (Min-Heap, Max-Heap)
+
+Algorithm    
+  - Searching Algorithms (Binary Search, Linear Search)
+  - Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort)
+  - Recursion and Backtracking
+  - Divide and Conquer
+  - Greedy Algorithms
+  - Dynamic Programming
+  - Graph Algorithms (Dijkstra's, Kruskal's, BFS, DFS)
+  - String Algorithms (String Matching, Longest Common Subsequence)
+  - Bit Manipulation
+  - Algorithm Complexity Analysis (Big O Notation)
+
+Analysis of Algorithm    
+  - Time Complexity
+  - Space Complexity
+  - Best Case, Average Case, and Worst Case Analysis
+  - Big O, Omega, and Theta Notations
+  - Algorithmic Paradigms (Divide and Conquer, Dynamic Programming, Greedy, etc.)
+
+# Languages i work with:
+  - C
+  - CPP 
+  - Java
+  - Python
+  - Javascript
+
+
 
